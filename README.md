@@ -45,9 +45,9 @@ Before running this project, make sure you have the following tools installed:
 4. The application will print recent activities in the terminal:
    ```
    Recent activities:
-   - Pushed to kamranahmedse/developer-roadmap
-   - Starred kamranahmedse/developer-roadmap
-   - Opened an issue in kamranahmedse/developer-roadmap
+   - Pushed to <github-username>/developer-roadmap
+   - Starred <github-username>/developer-roadmap
+   - Opened an issue in <github-username>/developer-roadmap
    ```
 
 ### How It Works
